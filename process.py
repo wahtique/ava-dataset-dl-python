@@ -220,10 +220,10 @@ action_labels_cols = [
         'person_id'
 ]
 
-video_dir = 'data/videos/AVA_action/train_val'
-output = 'data/videos/AVA_action/val/videos'
-label_file = 'data/ava_v2.2/ava_val_v2.2.csv'
-label_dir = 'data/videos/AVA_action/val/labels'
+# video_dir = 'data/videos/AVA_action/train_val'
+# output = 'data/videos/AVA_action/val/videos'
+# label_file = 'data/ava_v2.2/ava_val_v2.2.csv'
+# label_dir = 'data/videos/AVA_action/val/labels'
 
 # process_dir(
 #         video_dir,
